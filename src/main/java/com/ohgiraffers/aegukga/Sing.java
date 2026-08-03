@@ -11,6 +11,7 @@ public class Sing {
         System.out.println("우리나라 만세");
 
         // 2절 출력부
+        System.out.println("바람서리 불변함은");
         System.out.println("우리기상 일세");
 
         // 후렴구 출력부
